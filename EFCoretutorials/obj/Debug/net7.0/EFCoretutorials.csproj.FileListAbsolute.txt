@@ -61,3 +61,14 @@ C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\obj\Debug\net7.0\re
 C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\obj\Debug\net7.0\EFCoretutorials.pdb
 C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\obj\Debug\net7.0\EFCoretutorials.genruntimeconfig.cache
 C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\obj\Debug\net7.0\ref\EFCoretutorials.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Lagoeiro\Documents\treinamentoNerd2\EFCoretutorials\bin\Debug\net7.0\System.CodeDom.dll

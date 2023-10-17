@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Treinamantonerd2", "Treinamantonerd2\Treinamantonerd2.csproj", "{9AD2C35E-2FB4-468D-8AE3-B8D1CDCC2226}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Treinamantonerd2", "Treinamantonerd2\Treinamantonerd2.csproj", "{9AD2C35E-2FB4-468D-8AE3-B8D1CDCC2226}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoretutorials", "EFCoretutorials\EFCoretutorials.csproj", "{A52E4EE7-BFD0-483D-97C0-F76A8BDCFCD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoretutorials", "EFCoretutorials\EFCoretutorials.csproj", "{A52E4EE7-BFD0-483D-97C0-F76A8BDCFCD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,7 +14,6 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{9AD2C35E-2FB4-468D-8AE3-B8D1CDCC2226}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9AD2C35E-2FB4-468D-8AE3-B8D1CDCC2226}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9AD2C35E-2FB4-468D-8AE3-B8D1CDCC2226}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9AD2C35E-2FB4-468D-8AE3-B8D1CDCC2226}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A52E4EE7-BFD0-483D-97C0-F76A8BDCFCD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
